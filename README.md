@@ -8,9 +8,11 @@ AS A social media startup I WANT an API for my social network that uses a NoSQL 
 
 The back end code for a social networking web application using a NoSQL database. This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. API routes allow users to view, add, update, and delete data in the database.
 
-## **Video Example**
+## **Video Example:**
 
-N/A
+(https://drive.google.com/file/d/1zlA63-xYRwYCHDRY6ewAUhk2Wkxy6Xl3/view)
+
+![Screenshot 2023-04-24 at 6 26 33 PM](https://user-images.githubusercontent.com/117555071/234358652-2e529bbb-369a-4435-a478-680d6b45ea7a.png)
 
   <br/>
 
